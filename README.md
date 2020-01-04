@@ -36,8 +36,15 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 
 -This will help Divvy with their workforce planning and ensuring that they have the right number of techincians and Divvy Truck transports on the road.
 
-Data source: 
 
+4. Demographic Data
+
+-Viz: Pie chart of gender, pie chart of subscriber vs. one time rides, bar chart of rider age
+
+-This data will help inform Divvy's marketing efforts in new subscriber acquisition
+
+
+Data source: 
 https://s3.amazonaws.com/divvy-data/index.html
 
 https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7
