@@ -53,6 +53,7 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 
 
 Data source: 
+
 https://s3.amazonaws.com/divvy-data/index.html
 
 https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7
