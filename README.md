@@ -32,12 +32,16 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 
 -Data from this section will help divvy optimize their bike replenishment routes and ensure that bikes are available where/when needed
 
+![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Images/divvy_stations.PNG)
+
+![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Images/Top_to_stations.PNG)
 
 ### 3. How does weather affect rides? Does ridership change MoM as weather changes?
 
 -This will help Divvy with their workforce planning and ensuring that they have the right number of techincians and Divvy Truck transports on the road.
 
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/temperature_plot.png)
+
 - Line graph comparing Chicago avg temperature vs Divvy ridership
 
 ### 4. Demographic Data
