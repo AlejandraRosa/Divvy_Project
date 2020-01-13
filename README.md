@@ -32,7 +32,7 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/day_plot_2.png)
 
--Bar graph visualization by day of week
+-Bar graph visualization by day of week 
 
 ### 2. What are the most used stops?
 
