@@ -21,9 +21,11 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 -By understanding the most common times and days users ride, Divvy can ensure bikes are available when needed the most.
 
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/day_plot.png)
+
 -Bar graph visualization by hour
 
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/hour_plot.png)
+
 -Bar graph visualization by day of week
 
 ### 2. What are the most used stops?
