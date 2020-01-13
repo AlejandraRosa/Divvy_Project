@@ -52,6 +52,7 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/user_type.png)
 
+![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/age.png)
 
 Data source: 
 
