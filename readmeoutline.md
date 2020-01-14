@@ -18,5 +18,7 @@ Conclusions:
 3.	Days of the week – We were curious how the day of the week would impact number of rides. As shown in our bar plot, ridership remains fairly uniform across each day of the week. A healthy mix of commuters and tourists 
 4.	It was interesting to find that although the vast majority of rides were made by subscribers, the most commonly used stops included Navy Pier and Millennium park where tourists are the most common riders. Weekends do have the most rides by volume but it isn’t by a wide margin
 5.	Demographics: We found that our ridership skews male and subscriber. This is not surprising as most of our rides would be from repeat riders who are subscribed and not spending 10 dollars per ride.
-6.	Top Stations to Start rides and End rides -  We found that 
-7.	How this will impact Divvy Operations
+6.	Top Stations to Start rides and End rides -  We found that there was no large differences with the start and end stops. We feel that it is safe to say that we can look at most used stops as the metric and not see a large difference in the top ten stops.
+We saw that the bulk of the most used stops were in the loop obviously handling the large number of commutors using the service. The one outlier was the station on Navy Pier which is heavily used by the tourists exploring the area.
+
+
