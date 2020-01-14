@@ -8,7 +8,7 @@
 
   * Jordan Evans
 
-
+![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Images/logo.png)
 
 ## Project Description/Outline:
 
