@@ -57,9 +57,11 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 ![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Output/user_type.png)
 
 
-Data source: 
+### Data sources: 
 
 https://s3.amazonaws.com/divvy-data/index.html
 
 https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7
+
+https://www.timeanddate.com/weather/usa/chicago/historic?month=5&year=2018
 
