@@ -1,5 +1,7 @@
 # Divvy_Project
 
+![Divvy](https://github.com/AlejandraRosa/Divvy_Project/blob/master/Images/logo.png)
+
 ## Team Members:
 
   * Alejandra Rosa
@@ -7,7 +9,6 @@
   * Brianna John
 
   * Jordan Evans
-
 
 
 ## Project Description/Outline:
